@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ignis-8110
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in Game / Software Development
 - 🌱 I’m currently learning C++, C#, and Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.facebook.com/mcferdmanuel
